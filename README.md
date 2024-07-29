@@ -1,4 +1,4 @@
-# EcommerProj
+# Ecommerce Project
 This is a sales transaction data set of UK-based e-commerce (online retail) for one year. This London-based shop has been selling gifts and homewares for adults and children through the website since 2007. Their customers come from all over the world and usually make direct purchases for themselves. There are also small businesses that buy in bulk and sell to other customers through retail outlet channels.
 The data set contains 500K rows and 8 columns. The following is the description of each column.
 1.	TransactionNo (categorical): a six-digit unique number that defines each transaction. The letter “C” in the code indicates a cancellation.
